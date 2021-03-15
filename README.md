@@ -1,8 +1,7 @@
 <img align="left" src="https://doomlair.rocks/assets/imgs/OrbAnim1.gif">
 
 ##### Software Engineer - Digital Artist
-
-[![blog](https://img.shields.io/badge/doomlair-313131?style=flat-square&labelColor=313131&logo=micro.blog&logoColor=white&color=313131)](https://doomlair.rocks)  
+ 
 [![twitter](https://img.shields.io/badge/-@mrdoomus-313131?style=flat-square&labelColor=313131&logo=twitter&logoColor=white&color=313131)](https://twitter.com/mrdoomus)  
 [![linkedin](https://img.shields.io/badge/-@camilovj-313131?style=flat-square&labelColor=313131&logo=LinkedIn&logoColor=white&color=313131)](https://linkedin.com/in/camilovj)  
 
