@@ -1,6 +1,6 @@
 <img align="left" src="https://doomlair.rocks/assets/imgs/OrbAnim1.gif">
 
-#### Software Engineer - Digital Artist
+#### Software Engineer - [WIP]Digital Artist
  
 [![twitter](https://img.shields.io/badge/-@mr__doomus-313131?style=flat-square&labelColor=313131&logo=twitter&logoColor=white&color=313131)](https://twitter.com/mr_doomus)  
 [![linkedin](https://img.shields.io/badge/-@camilovj-313131?style=flat-square&labelColor=313131&logo=LinkedIn&logoColor=white&color=313131)](https://linkedin.com/in/camilovj)  
